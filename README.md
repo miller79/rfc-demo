@@ -1,2 +1,8 @@
-# rfc-demo
-This repository shows an example of how the RFC process can work using Github
+# RFC Demo
+
+This document can be used to give information about how the process works and provide links and an entry for all new comers.
+
+## Sample Links
+
+- [template](0000-template.md)
+- [text folder](text/)
